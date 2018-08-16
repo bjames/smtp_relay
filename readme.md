@@ -1,5 +1,5 @@
 **Usage**
-1. Add the submodule using 'git submodule add git@github.com:BJAMES4/smtp_relay.git'
+1. Add the submodule using 'git submodule add git@github.com:bjames/smtp_relay.git'
 2. Import the submodule into your python projects as follows: 'from smtp_relay.smtp_relay import send_email'
 3. When ready, commit your changes and include the submodule: "git commit -am 'added smtp_relay submodule'"
 4. Push the changes 'git push origin master'
